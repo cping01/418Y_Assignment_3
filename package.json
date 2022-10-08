@@ -1,0 +1,15 @@
+{
+	"name": "418y_assignment_3",
+	"version": "1.0.0",
+	"description": "Javascript bio webpage",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Connor Hing",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1",
+		"path": "^0.12.7"
+	}
+}
